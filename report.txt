@@ -1,0 +1,18 @@
+Model’s Performance
+-----------------------------------------------------------------------------------------
+In this sentiment analysis project, I evaluated two machine learning models
+*	Naive Bayes
+*	Logistic Regression
+on the IMDB movie reviews dataset to classify reviews as either positive or negative.
+
+Naive Bayes Model: The Naive Bayes model, known for its simplicity, achieved an accuracy 
+of about 86% on the test data. It performed well, with balanced precision and recall across 
+both classes.
+
+Logistic Regression Model: The Logistic Regression model outperformed Naive Bayes with an 
+accuracy of 89.04%. It showed better performance on both positive and negative reviews, 
+with higher precision and recall, leading to a more balanced and accurate classification.
+
+The Logistic Regression model proved to be more effective overall, delivering better 
+accuracy and more balanced performance. While both models performed well, 
+I found Logistic Regression to be the preferred choice due to its superior results.
